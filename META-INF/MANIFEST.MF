@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: phil
+Created-By: Leiningen 2.8.1
+Build-Jdk: 1.8.0_141
+Main-Class: clojure.main
+

@@ -1,0 +1,5 @@
+set interfaces ethernet eth4 address '192.168.18.1/24'
+set interfaces ethernet eth4 description 'VNet18'
+set nat source rule 180 outbound-interface 'eth0'
+set nat source rule 180 source address '192.168.18.0/24'
+set nat source rule 180 translation address masquerade

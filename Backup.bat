@@ -1,0 +1,1 @@
+wbadmin start backup -backuptarget:\\192.168.100.17\samabashare -allcritical -quiet
